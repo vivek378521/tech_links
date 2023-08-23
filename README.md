@@ -7,3 +7,10 @@ All the material related to software engineering that I find useful
 ## CPU
 - [How do CPUs work](https://www.cpu.land): Found this resource on twitter/X
 
+## Ebooks
+
+### Deep Learning
+- [MIT Deep Learning](https://github.com/janishar/mit-deep-learning-book-pdf/tree/master): A fren on discord shared this so I put this here.
+
+### OS
+- [OS Development](https://littleosbook.github.io/): An internet fren shared this on discord so I put this here.
