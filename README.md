@@ -1,4 +1,4 @@
-# tech_links
+# Curated by Vivek (software engineering essentials)
 All the material related to software engineering that I find useful
 
 ## Mongodb
