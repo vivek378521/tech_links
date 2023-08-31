@@ -14,3 +14,7 @@ All the material related to software engineering that I find useful
 
 ### OS
 - [OS Development](https://littleosbook.github.io/): An internet fren shared this on discord so I put this here.
+
+## Cheatsheets
+
+- [iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a): Was searching for iterm cheatsheets, ended up here. 
