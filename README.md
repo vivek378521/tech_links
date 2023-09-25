@@ -17,4 +17,8 @@ All the material related to software engineering that I find useful
 
 ## Cheatsheets
 
-- [iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a): Was searching for iterm cheatsheets, ended up here. 
+- [iTerm2 Cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a): Was searching for iterm cheatsheets, ended up here.
+
+## Random things
+
+- [Math question on X/Twitter](https://x.com/tiozzo_giulio/status/1705607363779063830?s=20): I liked the question, also tried solving it, this post has the solution to the question.
