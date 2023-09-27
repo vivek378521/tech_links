@@ -7,6 +7,9 @@ All the material related to software engineering that I find useful
 ## CPU
 - [How do CPUs work](https://www.cpu.land): Found this resource on twitter/X
 
+## OSS
+ - [How does git work](https://maryrosecook.com/blog/post/git-from-the-inside-out): A moot put this out on X/twitter gc
+
 ## Ebooks
 
 ### Deep Learning
