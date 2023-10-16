@@ -1,8 +1,15 @@
 # Curated by Vivek (software engineering essentials)
 All the material related to software engineering that I find useful
 
-## Mongodb
+## Databases
+
+### Mongodb
 - [Manage in progress indexing operations](https://www.mongodb.com/docs/v3.0/tutorial/manage-in-progress-indexing-operations/): An internet fren started synchronous indexing in a huge mongodb, got this link from his tweets/Posts.
+
+
+### Vector Db
+- [Basics of Vector db: 4 blogs](https://thedataquarry.com/posts/vector-db-1/): An internet fren sent this to me when I wanted to learn the basics of vectordb, nice resource for basic understanding.
+
 
 ## CPU
 - [How do CPUs work](https://www.cpu.land): Found this resource on twitter/X
